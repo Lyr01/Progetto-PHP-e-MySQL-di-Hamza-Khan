@@ -29,7 +29,7 @@ Questo è un proggetto che crea un'app che ci permette di salvare e scrive per s
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Cerca Libri</h3>
+  <h3 align="center">Raccolta Differenziata</h3>
 
   <p align="center">
     Un proggetto che permette di controllare la raccolta differenziata.
