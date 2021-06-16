@@ -70,7 +70,7 @@ Questo è un proggetto che crea un'app che ci permette di salvare e scrive per s
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Questo progetto è stato realizzato per Star2Impact, un sito che usa un API esterna per rilevare dati di unquinamento di una città.
+Questo progetto è stato realizzato per Star2Impact, un'app che ci permette di controllare la raccolta differenziata.
 
 ### Built With
 
